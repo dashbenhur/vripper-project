@@ -4,7 +4,7 @@ This is my spin for a cross-platform gallery ripper for [vipergirls.to](https://
 
 ## How to build
 
-You need JDK 17 and a recent version of maven 3.6.1+
+You need JDK 21 and a recent version of maven 3.6.1+
 
 To build run the following:
 
